@@ -1,0 +1,7 @@
+gymnasium[atari, all]
+swig
+Box2D
+box2d-kengz
+pygame
+ale_py
+autorom
